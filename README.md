@@ -1,6 +1,7 @@
 # MGS
 
 Mango Gradation System
+its for class verfication
 
 
 ## Dataset Link:
